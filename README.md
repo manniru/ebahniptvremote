@@ -1,15 +1,6 @@
-Official XBMC Remote for Android
+Control Ebahn IPTV with Android Mobile
 ================================
 
-![Android Market](http://chart.apis.google.com/chart?cht=qr&chs=135x135&chl=market://details?id=org.xbmc.android.remote)
-
-_Control your [XBMC Media Center](http://xbmc.org/) with your Android device. Officially brought to you by Team XBMC._
-
-*The first beta version has hit [Android Market](https://market.android.com/details?id=org.xbmc.android.remote), use the QR Code above or search for "Official XBMC Remote".*
-
-This is still considered as "in development". You're of course welcome to suggest features and ideas to the [forum](http://forum.xbmc.org/forumdisplay.php?f=129) and post bugs to the [tracker](http://code.google.com/p/android-xbmcremote/issues/list).
-
-*NEW*: IRC Channel: *#xbmc-android* on Freenode.
 
 
 Current Features
@@ -18,17 +9,17 @@ Current Features
 ### General
 
 * Remote control with the look of the Xbox' DVD Dongle
-* Control XBMC's volume directly with your device's volume buttons
+* Control eBahn's volume directly with your device's volume buttons
 * Fast access to items in list via hard- or soft keyboard (long-press _Menu_)
-* Manage multiple XBMC instances
+* Manage multiple eBahn instances
 * Live view of currently playing playlist
 * Notification bar shows what's playing with direct access to "Now playing" screen (can be disabled)
 * Large screen (854x480) support, while maintaining 1.5 compatibility
 * On incoming call, display who's calling on TV screen and pause video until call is over
 * On incoming message, display on TV screen
 * Setting that prevents your phone locking the screen. You can apply it either for remote control only or all screens (or disable it completely)
-* Tabs looking and behaving like HTC's Sense UI, also check out the [Gallery](http://code.google.com/p/android-xbmcremote/wiki/Gallery).
-* Ultra fast cover download for recent XBMC builds (>r27770)
+* Tabs looking and behaving like HTC's Sense UI, also check out the [Gallery](http://code.google.com/p/android-eBahnremote/wiki/Gallery).
+* Ultra fast cover download for recent eBahn builds (>r27770)
 * Texture support for HTC Tattoo, Google Nexus One as well as Motorola's Droid/Milestone.
 
 
@@ -37,7 +28,7 @@ Current Features
 * Cover art is shown where available
 * _Now playing_ screen allows skipping, seeking, stop and pause
 * Browse by album, artist, genre
-* XBMC's "Hide artists who appear only on compilations" setting is taken into account when listing artists
+* eBahn's "Hide artists who appear only on compilations" setting is taken into account when listing artists
 * Within a genre, browse by albums, artists and songs
 * List all albums and songs of an artist
 * Browse compilations only
